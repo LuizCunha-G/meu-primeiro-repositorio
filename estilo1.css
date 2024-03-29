@@ -1,0 +1,264 @@
+body{
+    margin: 0;
+}
+
+h1{
+    width: fit-content;
+    margin: 0;
+}
+.caixa{
+
+    border-radius: 3px;
+}
+
+.paiA{
+    width: 100%;
+    height: 80px;
+    margin: auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: flex-start;
+}
+
+.filho{
+    width: 80px;
+    height: 80px;
+    border-radius: 2px;
+}
+
+.quadA_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadA_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadA_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadA_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.paiB{
+    width: 100%;
+    height: 80px;
+    margin: 10px auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.quadB_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadB_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadB_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadB_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.paiC{
+    width: 100%;
+    height: 80px;
+    margin: 10px auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: center;
+}
+
+.quadC_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadC_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadC_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadC_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.paiD{
+    width: 100%;
+    height: 80px;
+    margin: 10px auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: space-between;
+}
+
+.quadD_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadD_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadD_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadD_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.paiE{
+    width: 100%;
+    height: 80px;
+    margin: 10px auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: space-around;
+}
+
+.quadE_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadE_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadE_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadE_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.paiF{
+    width: 100%;
+    height: 80px;
+    margin: 10px auto;
+    background-color: rgb(196, 201, 201);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.quadF_A{
+    background-color: rgb(45, 195, 201);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadF_B{
+    background-color: rgb(33, 33, 95);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadF_C{
+    background-color: rgb(199, 14, 54);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
+
+.quadF_D{
+    background-color: rgb(226, 183, 66);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+}
